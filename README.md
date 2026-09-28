@@ -82,7 +82,7 @@ Rust-based desktop IRC client using Tauri + Leptos
 
 ---
 
-## 🎯 Direction
+## Direction
 
 - Technical Program Management  
 - System design at scale  
@@ -99,6 +99,7 @@ Rust-based desktop IRC client using Tauri + Leptos
   </a>
   <a href="https://github.com/tabee1024">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://tabithasulaiman.com">
   </a>
 </p>
 
