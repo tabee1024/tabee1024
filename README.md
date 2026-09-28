@@ -10,15 +10,15 @@
 
 ---
 
-## 🧠 About
+## About ME!
 
 I build and lead systems at the intersection of **product, user experience, and engineering**.
 
 At **GE HealthCare**, I developed a network automation platform used across 40+ devices — reducing manual support by **75%** and improving performance by **80%**.
 
 Outside of engineering:
-- President of **NSBE (CSUN)** — secured $15K+ funding, rebuilt engagement  
-- Co-President of **ColorStack** — scaling programs connecting students with industry  
+- Ex-President of **CSUN-NSBE Chapter (3 Terms)**: Secured $25K+ funding in the year, rebuilt engagement  
+- Co-President of **ColorStack@CSUN (2 Terms)**: Scaling programs connecting students with industry  
 
 I focus on **execution, systems thinking, and building products that actually deliver impact**.
 
@@ -35,7 +35,7 @@ I focus on **execution, systems thinking, and building products that actually de
 
 ---
 
-## ⚙️ Tech
+## Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,react,angular,unity,docker,git,mongodb,sqlite" />
@@ -43,27 +43,27 @@ I focus on **execution, systems thinking, and building products that actually de
 
 ---
 
-## 🚀 Work
+## Work
 
-### 🏥 MediTrain  
+### MediTrain  
 Simulation-based surgical training system built in Unity  
 → Focused on scalable, cost-efficient medical education  
 
 ---
 
-### ⚙️ Network Automation Platform (GE HealthCare)  
+### Network Automation Platform (GE HealthCare)  
 Self-service configuration system across enterprise devices  
 → Reduced operational friction and improved reliability  
 
 ---
 
-### 🌐 CSUN NSBE Platform  
+### CSUN NSBE Platform  
 Full-stack platform improving access, engagement, and communication  
 → Designed for scalability, accessibility, and real-time interaction  
 
 ---
 
-### 💬 VeryChat  
+### VeryChat  
 Rust-based desktop IRC client using Tauri + Leptos  
 → Performance-focused, cross-platform system design  
 
